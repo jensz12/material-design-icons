@@ -18,7 +18,7 @@ You have a few options for getting the icons.
 
 ### Download the Zip
 
-Grab the latest stable [zip archive](https://github.com/google/material-design-icons/releases/download/1.0.0/material-design-icons-1.0.0.zip) (~57MB) of all icons or the bleeding-edge version from [master](https://github.com/google/material-design-icons/archive/master.zip).
+Grab the latest stable [zip archive](https://github.com/google/material-design-icons/releases/download/1.0.1/material-design-icons-1.0.1.zip) (~57MB) of all icons or the bleeding-edge version from [master](https://github.com/google/material-design-icons/archive/master.zip).
 
 ### Bower
 
@@ -114,7 +114,11 @@ Finally, set the dimension and specific icon `svg-ic_play_circle_outline_24px`, 
 	<div class="svg-ic_play_circle_outline_24px svg-ic_play_circle_outline_24px-dims"></div>
 ```
 
+## Polymer Icons
 
-## Licence
+If you wish to use the icon set with Polymer, we recommend consuming them via the [`<core-icons>`](https://github.com/Polymer/core-icons) element.
 
-All icons are released under an [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+
+## License
+
+All icons are released under an [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
